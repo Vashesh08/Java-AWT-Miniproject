@@ -1,2 +1,2 @@
 # Java-AWT-Miniproject
-Order Management System
+Order Management System by Vashesh Hrithik and Tushar
