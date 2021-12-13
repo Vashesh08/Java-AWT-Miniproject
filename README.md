@@ -1,2 +1,3 @@
 # Java-AWT-Miniproject
-Order Management System 
+Order Management System using awt in JAVA.
+
