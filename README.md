@@ -14,8 +14,10 @@ h1{text-align: center}
 <body>
     <h1>About Our AWT Mini-Project!</h1>
     
-<object data="E:\\Users\\Raju Jogani\\OneDrive\\Desktop\\Miniproject Report.pdf" type="application/pdf" width="100%" height="900px">
-<a href="E:\\Users\\Raju Jogani\\OneDrive\\Desktop\\Miniproject Report.pdf">test.pdf</a>
+<object data="https://github.com/Vashesh08/Java-AWT-Miniproject/files/7705494/Miniproject.Report.pdf" type="application/pdf" width="100%" height="900px">
+<a href="https://github.com/Vashesh08/Java-AWT-Miniproject/files/7705494/Miniproject.Report.pdf">
+  
+    </a>
 </object>
 </body>
 </html>
