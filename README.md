@@ -13,3 +13,4 @@ Upload the newarkstore folder in your MySQL folder --> C:\ProgramData\MySQL\MySQ
 (Program Data is a hidden file)
 
 <a href="https://github.com/Vashesh08/Java-AWT-Miniproject/blob/main/Miniproject%20Report.pdf" target="_blank" rel="noopener noreferrer">Mini Project Report</a>
+<a href="https://github.com/Vashesh08/Java-Swing-College-MiniProject.git" target="_blank" rel="noopener noreferrer">Link to the same miniproject in Swing library</a>
